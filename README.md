@@ -5,3 +5,4 @@ test
 chain
  many
 NFT
+token
