@@ -12,3 +12,4 @@ wallet good
 mem ETH art
 BASE complete
 NFT
+wallet in my opinion
