@@ -14,3 +14,4 @@ pubric
 thank goodness
 BASE quack
 follow me
+airdrop and
