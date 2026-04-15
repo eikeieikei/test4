@@ -13,3 +13,4 @@ project
 japanpubric
 kraken
 new crew
+wallet
