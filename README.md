@@ -8,3 +8,4 @@ OFC
 follow
 wallet
 robinhood
+USDT
