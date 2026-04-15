@@ -12,3 +12,4 @@ USDT
 BASEgood
  ATOM
 omni
+quack
