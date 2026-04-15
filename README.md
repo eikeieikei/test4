@@ -1,20 +1,2 @@
 # test4
-thank you
-BASE good　project
-when launch 
-BASE teams
-onchain
-meme
-under your name
- guild awards
-eikeikeplr
-BASE wallet
-japan soneium
-pubric 
-thank goodness
-BASE quack
-follow me
-airdrop and
-big wave
-hurry up and
-thank BASE
+BASE 
