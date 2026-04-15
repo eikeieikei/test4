@@ -10,3 +10,4 @@ token
 xenon
 new
 project
+japan
