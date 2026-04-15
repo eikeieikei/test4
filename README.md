@@ -6,3 +6,4 @@ chain
  many
 NFT
 token
+ guild
