@@ -28,3 +28,4 @@ BASE  guild
 upgrade test
 hurry up and
 under your name
+ETH
