@@ -5,3 +5,4 @@ japan
 BASEwallet
 good project
 test token
+discode
