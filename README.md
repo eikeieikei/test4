@@ -11,3 +11,4 @@ robinhood
 USDT
 BASEgood
  ATOM
+omni
