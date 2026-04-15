@@ -12,3 +12,4 @@ new
 project
 japanpubric
 kraken
+new crew
