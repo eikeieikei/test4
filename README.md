@@ -31,3 +31,4 @@ under your name
 ETH
 token BASEfollow
 kling
+ide
