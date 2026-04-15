@@ -6,3 +6,4 @@ eikei
 nice
 OFC
 follow
+wallet
