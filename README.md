@@ -15,3 +15,4 @@ omni
 quack
 yes
 keplr
+camp
