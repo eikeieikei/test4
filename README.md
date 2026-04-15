@@ -8,3 +8,4 @@ NFT
 token
  guild
 xenon
+new
