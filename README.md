@@ -9,3 +9,4 @@ under your name
  guild awards
 eikeikeplr
 BASE wallet
+japan soneium
