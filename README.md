@@ -7,3 +7,4 @@ good project
 test token
 discode
 join
+wallet good
