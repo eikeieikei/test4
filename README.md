@@ -15,3 +15,4 @@ kraken
 new crew
 wallet
 upgrade
+HTLT
