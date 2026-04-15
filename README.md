@@ -9,3 +9,4 @@ token
  guild
 xenon
 new
+project
