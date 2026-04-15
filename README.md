@@ -7,3 +7,4 @@ chain
 NFT
 token
  guild
+xenon
