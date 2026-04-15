@@ -8,3 +8,4 @@ test token
 discode
 join
 wallet good
+ guild awards
