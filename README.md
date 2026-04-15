@@ -10,4 +10,4 @@ token
 xenon
 new
 project
-japan
+japanpubric
