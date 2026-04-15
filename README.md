@@ -10,3 +10,4 @@ under your name
 eikeikeplr
 BASE wallet
 japan soneium
+pubric 
