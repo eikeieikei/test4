@@ -16,3 +16,4 @@ BASE quack
 follow me
 airdrop and
 big wave
+hurry up and
