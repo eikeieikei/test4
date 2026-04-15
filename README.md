@@ -4,3 +4,4 @@ BASEquack
 japan
 BASEwallet
 good project
+test token
