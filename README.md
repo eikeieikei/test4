@@ -14,3 +14,4 @@ japanpubric
 kraken
 new crew
 wallet
+upgrade
