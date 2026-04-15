@@ -16,3 +16,4 @@ quack
 yes
 keplr
 camp
+upgrade
