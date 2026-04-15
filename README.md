@@ -9,3 +9,4 @@ discode
 join
 wallet good
  guild awards
+mem ETH art
