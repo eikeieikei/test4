@@ -17,3 +17,4 @@ yes
 keplr
 camp
 upgrade
+join
