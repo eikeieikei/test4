@@ -4,3 +4,4 @@ good
 test
 chain
  many
+NFT
