@@ -6,3 +6,4 @@ good news
 japan complete
 NFT BASE
  TOGETHER
+thank you project
