@@ -9,3 +9,4 @@ follow
 wallet
 robinhood
 USDT
+BASEgood
