@@ -10,3 +10,4 @@ wallet
 robinhood
 USDT
 BASEgood
+ ATOM
